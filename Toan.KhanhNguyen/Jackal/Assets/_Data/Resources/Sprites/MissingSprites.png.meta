@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: e02a26482e6d6064799b407e16ecd035
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissingSprites_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c91a393aec39d42a17b76bdb3a98ef
+      internalID: -1810479031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1926
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec67c954552e9648bcc56f0e1a24f31
+      internalID: 2137629991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f6b2ed7d242b41a30a77f888ff258
+      internalID: -1498338826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1918
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc0eac0baa3b54b9d47c5b77b3403e
+      internalID: 1695013798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82287848e07e204195a351bb3fa2255
+      internalID: 1740536428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b833a5cc4aaa438721831d8f56ae9
+      internalID: -813658165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1918
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150466e4a2040345a59c9e31641a4d5
+      internalID: 2065466379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1998
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81943ff2a61ef4bb7d16a963ecf2b0
+      internalID: -1914230823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1681425b9df2645b2350264600d02e
+      internalID: -1567424870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1926
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe90ce097b92f4ca997533036dcd56
+      internalID: 409951715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c515fc9be40ce7b438628ed75a301961
+      internalID: -1018891648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1918
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382ae091dc71d64e81bfb45d44d7957
+      internalID: 574309871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd140d5f5d03343a40ba015768cbd6
+      internalID: -631524482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_13
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1926
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b186cc00db1b3944a8222b4762ea9bd
+      internalID: -168958760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1918
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82602b478ad2c014486df1d669c6d8cd
+      internalID: 118503874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_15
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1998
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c87c4371421c443b12658358a5ffa2
+      internalID: -41155943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1958
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371320b46c8fafa4a828b859eeb7140a
+      internalID: 340312069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1786
+        width: 185
+        height: 119
+      alignment: 9
+      pivot: {x: 0.2633368, y: 0.6967599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8cc7a12db1e0429a692ab64dafe15
+      internalID: -747101365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1754
+        width: 168
+        height: 159
+      alignment: 9
+      pivot: {x: 0.45447522, y: 0.7005838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a82ab8685823345bd83ab20c769bed
+      internalID: -9256215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1667
+        width: 112
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6465acfe737e746a78eb5cf452b765
+      internalID: 1830070439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1675
+        width: 112
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c9ebecc2884443af766b18dd0e759
+      internalID: 1368076647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1658
+        width: 232
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3da60146353c24caf1fbfe87b9f80c
+      internalID: -1541778090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_22
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1658
+        width: 232
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e1c7482ff6ed40ad53d7a4a98f56a
+      internalID: 523597253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1653
+        width: 168
+        height: 120
+      alignment: 9
+      pivot: {x: 0.25, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e32a07db3c264eafb17c5708fb69d
+      internalID: -165748532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1599
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5878908, y: 0.6195108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df98acc777a6c644096d53aee6b82877
+      internalID: 1047071840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1340
+        width: 129
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b337e93cfc7d4cbc749a406e86977
+      internalID: -949772168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1340
+        width: 169
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d1271f49c1df438af8bf5e70aa046
+      internalID: 452058011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1331
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7ac16858f25b45b8f4fcc576daef2
+      internalID: 1911084893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1330
+        width: 191
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5426789cb9b0a041b0b2fac5c57ade2
+      internalID: 1631982334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_29
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1330
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f80374d4d604d4eb489871ba3753b7
+      internalID: 2076645035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 512
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f7d39de893e6438b95e2e2231635d
+      internalID: -1568710925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 673
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d37db08249ce547a0e0e60749f12cd
+      internalID: -1943602647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 673
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd85c990866a64c89fcb2e6d1c5726
+      internalID: 1910534667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 425
+        width: 423
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a41850a948d22f4a98f9bd398758e6b
+      internalID: -648068041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_34
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 674
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1033ca50df56dc24b9de6794beba6bcd
+      internalID: 2124585540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissingSprites_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 674
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb04b91c2528046be523bbdb3cadee
+      internalID: -748575740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MissingSprites_0: -1810479031
+      MissingSprites_1: 2137629991
+      MissingSprites_10: -1018891648
+      MissingSprites_11: 574309871
+      MissingSprites_12: -631524482
+      MissingSprites_13: -168958760
+      MissingSprites_14: 118503874
+      MissingSprites_15: -41155943
+      MissingSprites_16: 340312069
+      MissingSprites_17: -747101365
+      MissingSprites_18: -9256215
+      MissingSprites_19: 1830070439
+      MissingSprites_2: -1498338826
+      MissingSprites_20: 1368076647
+      MissingSprites_21: -1541778090
+      MissingSprites_22: 523597253
+      MissingSprites_23: -165748532
+      MissingSprites_24: 1047071840
+      MissingSprites_25: -949772168
+      MissingSprites_26: 452058011
+      MissingSprites_27: 1911084893
+      MissingSprites_28: 1631982334
+      MissingSprites_29: 2076645035
+      MissingSprites_3: 1695013798
+      MissingSprites_30: -1568710925
+      MissingSprites_31: -1943602647
+      MissingSprites_32: 1910534667
+      MissingSprites_33: -648068041
+      MissingSprites_34: 2124585540
+      MissingSprites_35: -748575740
+      MissingSprites_4: 1740536428
+      MissingSprites_5: -813658165
+      MissingSprites_6: 2065466379
+      MissingSprites_7: -1914230823
+      MissingSprites_8: -1567424870
+      MissingSprites_9: 409951715
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

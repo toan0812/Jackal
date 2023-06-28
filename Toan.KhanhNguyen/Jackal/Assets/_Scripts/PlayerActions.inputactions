@@ -1,0 +1,54 @@
+{
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "playerAction",
+            "id": "7a6bfd5c-6640-49d0-822d-3c188394f8ec",
+            "actions": [
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "d91cfd20-1d26-427f-a8f8-5eeb5ee87a48",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ShootBoom",
+                    "type": "Button",
+                    "id": "63cc58b0-7e65-49f8-8e82-3d81427e3207",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f9b43dfd-548c-48f3-81ab-b09cdff2de6a",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "486acebb-aa35-486f-9449-544d586937eb",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShootBoom",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

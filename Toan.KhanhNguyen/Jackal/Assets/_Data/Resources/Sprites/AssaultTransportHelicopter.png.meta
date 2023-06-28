@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 02172bccdd9a573488d7b5981c44c0a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4775f98e4c284984021a8a6ce690f
+      internalID: -1970057720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33aa7a281952743b00cabc544570ed
+      internalID: 1735705616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0d5856d093ad499afa6e665f567a9
+      internalID: -737992861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b8564ba11e2c4aabe359f9e01d052
+      internalID: 642890758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21d9103818a4846a37f64f102d83fd
+      internalID: 559802086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc4a4d036e3b644ab0f9526de81cc0
+      internalID: -157126899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048319275be4c5c418ce4dd1fb73b4d9
+      internalID: 325687823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 325
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef44ac0561219b4a926abd268d095f3
+      internalID: -1379796222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba8259f1fa26f49badcf1371817b4c
+      internalID: 314291296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a86c2cb563644187c216a60b2fd5a
+      internalID: 1786788101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa16cd2a2aa9c418e4f3864a638c71
+      internalID: 1254072547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d369f23de6f1d408664865c9e158a2
+      internalID: 378119151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8f8a8049050a4999e844dacf01763
+      internalID: -1543111530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa80b7acf984204080ec6e39223a93c
+      internalID: 398033062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3459af136e9fe35469f74e5a4b71d306
+      internalID: 118976875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 244
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535f699b82e2f7c4c93009a380005b15
+      internalID: 1776535053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c3e9abf1938b4c8c708a07121ec3a
+      internalID: 2137063027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc09f24ac8e6f54c8daf405d674ce47
+      internalID: -1058410887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301b3b31879d39e4b89859cf52cb9659
+      internalID: -1611219875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3a59fa0b78ee4e96b72d775946c52
+      internalID: 999265513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a5b6993c63df4fbc9f7fd943e5bf0
+      internalID: -502382712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca56d8e1666a534c844a87def17bcad
+      internalID: -1471925724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4990248e35bec45a4a9eee58c97abd
+      internalID: -691129820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 163
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c24161cf130744daeec66f99bb5881
+      internalID: -667226032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ee082204575044b8211f5890a0b0f
+      internalID: -215085349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a61100188263d45ae97d203ed7cf5d
+      internalID: 760938061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf242388b121d48b23fa1e6ffb8e96
+      internalID: -156734325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795def3e9499bee499972e8e7d079207
+      internalID: -293514928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad0604dafed1d4c8cd0c3bb08cf6b2
+      internalID: 23904642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b8c66b85057b4da109ceab4932541
+      internalID: 875319341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967e724741ac3544a791a8919121793
+      internalID: 1992172811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3628ba850bf446bdeabca3b3808a8
+      internalID: -1334863422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74129ff77e461964281c7f24bb243279
+      internalID: -1816784307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5acd1caa0f964e87ae7a66ffb79b2
+      internalID: -1472615641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb327330de7b0e0489b52ebb96d8c7d1
+      internalID: 401009199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08a94b1609ef644bed06c6f7164e7f
+      internalID: -275046958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0554330c2705c74586aa45bb2067b21
+      internalID: 1897312090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1e275e2d45c54690f1d59a3b33a89
+      internalID: -1221727887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f35b32b2316044a6e58dcfdd89de8
+      internalID: 804884790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultTransportHelicopter_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8857581010c2d4dbbcdaa20f346133
+      internalID: -1259812935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AssaultTransportHelicopter_0: -1970057720
+      AssaultTransportHelicopter_1: 1735705616
+      AssaultTransportHelicopter_10: 1254072547
+      AssaultTransportHelicopter_11: 378119151
+      AssaultTransportHelicopter_12: -1543111530
+      AssaultTransportHelicopter_13: 398033062
+      AssaultTransportHelicopter_14: 118976875
+      AssaultTransportHelicopter_15: 1776535053
+      AssaultTransportHelicopter_16: 2137063027
+      AssaultTransportHelicopter_17: -1058410887
+      AssaultTransportHelicopter_18: -1611219875
+      AssaultTransportHelicopter_19: 999265513
+      AssaultTransportHelicopter_2: -737992861
+      AssaultTransportHelicopter_20: -502382712
+      AssaultTransportHelicopter_21: -1471925724
+      AssaultTransportHelicopter_22: -691129820
+      AssaultTransportHelicopter_23: -667226032
+      AssaultTransportHelicopter_24: -215085349
+      AssaultTransportHelicopter_25: 760938061
+      AssaultTransportHelicopter_26: -156734325
+      AssaultTransportHelicopter_27: -293514928
+      AssaultTransportHelicopter_28: 23904642
+      AssaultTransportHelicopter_29: 875319341
+      AssaultTransportHelicopter_3: 642890758
+      AssaultTransportHelicopter_30: 1992172811
+      AssaultTransportHelicopter_31: -1334863422
+      AssaultTransportHelicopter_32: -1816784307
+      AssaultTransportHelicopter_33: -1472615641
+      AssaultTransportHelicopter_34: 401009199
+      AssaultTransportHelicopter_35: -275046958
+      AssaultTransportHelicopter_36: 1897312090
+      AssaultTransportHelicopter_37: -1221727887
+      AssaultTransportHelicopter_38: 804884790
+      AssaultTransportHelicopter_39: -1259812935
+      AssaultTransportHelicopter_4: 559802086
+      AssaultTransportHelicopter_5: -157126899
+      AssaultTransportHelicopter_6: 325687823
+      AssaultTransportHelicopter_7: -1379796222
+      AssaultTransportHelicopter_8: 314291296
+      AssaultTransportHelicopter_9: 1786788101
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
