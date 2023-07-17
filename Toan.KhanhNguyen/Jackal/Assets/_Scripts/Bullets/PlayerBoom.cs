@@ -18,7 +18,7 @@ public class PlayerBoom : Bullets
     private void FixedUpdate()
     {
         BulletMoving();      
-        DestroyByDistance(PlayerManager.instance.PlayerMovement.GetPlayerTransform());
+        DestroyByDistance(PlayerManager.instance.PlayerMovement.GetPlayerTransform(), SoundManager.instance.boomSound);
         
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -26,17 +26,17 @@ public class PlayerBoom : Bullets
 
         if (collision.gameObject.CompareTag("wall") || collision.gameObject.CompareTag("Enemy"))
         {
+            VFXController.instance.GetBulletEffect(transform, SoundManager.instance.boomSound);
             gameObject.SetActive(false);
-            VFXController.instance.GetBoomEffect(transform);
+            
         }
     }
 
 
-    protected override void DestroyByDistance(Transform TargetTransform)
+    protected override void DestroyByDistance(Transform TargetTransform, AudioClip audioClip)
     {
-        base.DestroyByDistance(TargetTransform);
+        base.DestroyByDistance(TargetTransform, audioClip);
     }
-
     protected override void BulletMoving()
     {
         rigidbody2D.velocity =  speed * direction * Time.deltaTime;

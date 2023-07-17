@@ -9,12 +9,13 @@ public class Bullets : JackalMono
 
     protected virtual void BulletMoving(){}
 
-    protected virtual void DestroyByDistance(Transform TargetTransform)
+    protected virtual void DestroyByDistance(Transform TargetTransform, AudioClip audioClip)
     {
         if(Vector2.Distance(transform.position, TargetTransform.transform.position) >= 4f)
         {
+            VFXController.instance.GetBoomEffect(transform, audioClip);
             gameObject.SetActive(false);
-            VFXController.instance.GetBoomEffect(transform);
+            
         }
     }
 

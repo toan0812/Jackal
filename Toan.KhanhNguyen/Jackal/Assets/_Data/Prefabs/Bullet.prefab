@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4637389154614557724}
   m_Layer: 0
   m_Name: Bullet
-  m_TagString: Untagged
+  m_TagString: PlayerBullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117,12 +117,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   rb: {fileID: 4637389154614557724}
-  enemyLayer:
-    serializedVersion: 2
-    m_Bits: 512
-  wallLayer:
-    serializedVersion: 2
-    m_Bits: 256
 --- !u!50 &4637389154614557724
 Rigidbody2D:
   serializedVersion: 4

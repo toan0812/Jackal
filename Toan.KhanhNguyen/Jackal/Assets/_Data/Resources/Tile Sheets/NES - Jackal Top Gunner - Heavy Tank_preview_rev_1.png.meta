@@ -1,0 +1,3511 @@
+fileFormatVersion: 2
+guid: c49fdd299a8a79043b9f9238dcf97c07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b32afee61152140a75be7c45bb2d0b
+      internalID: 886966570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 594
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0fda3b6c5fb7e40808341259114078
+      internalID: -605661233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 564
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24da1b44fc11cb46bdb86166060a753
+      internalID: -1731400626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 564
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83c47329ae9b240ab2e62e54b0bb0a
+      internalID: -620983978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 564
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee09e738deca224b8e00dc8463a1fc9
+      internalID: -1774947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 567
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6f1ffc2edb124da8fca81772d4eca
+      internalID: 1499254719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 564
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d366acc86c1d0249a30bdaa77439456
+      internalID: -271725375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 564
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cef39b1e67c5b4e84d0e1685e31701
+      internalID: 1968225733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 564
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa2cd20c311144c8acb9adcba52206
+      internalID: 692081833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 567
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168466cf3ce30b49b213aa2e9db62e2
+      internalID: -1986526936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 534
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f48cfeb5486f04e886cc92a3ed2dcd
+      internalID: -519610620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 532
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf26e9f2a7cfd634aaedc11938270dea
+      internalID: 851154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b83128de2cfa542a51f7339a332299
+      internalID: 626051248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 532
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe11af076703b499c5ffd9358f2930
+      internalID: -1357130153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 534
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d022f1f7c0c347992d630ecaaeb53
+      internalID: 82834413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 532
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1c4376a0b2a03418829471ca764ee4
+      internalID: -20118398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 533
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087bcbd023332f641ab7b190b3fe0cbe
+      internalID: -1163602668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 532
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8c4ce0fa275c4ebd9b51170278065
+      internalID: 1916165021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556786cf27ccab84b8328dc423eb7eed
+      internalID: -1526874642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 498
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78820caaa645ac04d97234693198edf5
+      internalID: 37634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 498
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473fab5750e77554696cd055066c51d4
+      internalID: -577123617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 498
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a63a3360c080408fa7c39f403ef46
+      internalID: -1531349638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 501
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52750087155f0ce46b6893afc6c0e2cb
+      internalID: 1453468770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 498
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ddc2e0fdbab548b15102a3a062c4a
+      internalID: 1230669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 498
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c9b655ea80d0c4d9b6c91d1f79e1cb
+      internalID: 990852419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 498
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f87a5b1f001814cb2750f44a9de0d6
+      internalID: -1131965236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 501
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a9536849096c478e8f239cdc3cef9
+      internalID: 1649798691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 468
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5205f09f7b7618448c327a30bb70816
+      internalID: -1402569763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 466
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014adb71d002b2b458adbb1550d348db
+      internalID: 63182857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 465
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2761bfdf4d76984396161aea672f86c
+      internalID: 798836413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 466
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6ee316019bd448b7651f49f23825e
+      internalID: 1582906043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 468
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f8f89da7aca941b3a25c4305c6480
+      internalID: -768878096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 466
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec43cbe52ab0f48bf6e9b19d45a956
+      internalID: 1378208301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 467
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b588e9a09ff227041982e13e5a3436a8
+      internalID: 1180361750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 466
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1869e75140b94db4f84c62904cc71
+      internalID: 1536380373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b233aed135f1fb4685860ab8b23379b
+      internalID: 1787501625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 432
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985446e365d5874f81fc628a5699d8b
+      internalID: 107650337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b981ef653a93f0745be2b756eb502ef0
+      internalID: 901882139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 432
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69975468846d40478f51172796a1c7d
+      internalID: -56344171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4673124127664cac85f3d26f98ae0
+      internalID: 1999837808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea49657cc171db4d9aaf68bb8f39da9
+      internalID: 1202969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c15674030ff3c42a74aba947fa8724
+      internalID: 1215336262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dce250c46f69246886ac9983594b94
+      internalID: -181819049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 435
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68f4be7b58a614685229405890a774
+      internalID: 991928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 402
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b52aa521873f074abd51d405b72e4d4
+      internalID: 1546223110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73355d3bd99e32459ac33de7b839134
+      internalID: -1857626197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 399
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef61f55ab0ddaf4ab8b9335191f39a9
+      internalID: 142107988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672e7c8508809346b22bddd436ef24b
+      internalID: 1608726759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 402
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c225999918d6140ba335e3754d21c1
+      internalID: 949402466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b580cc6e7bff41a01f6c71790d736
+      internalID: -464506043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 401
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4698a3472d2f8940b07dbb53d9e6db8
+      internalID: 2127598864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ddb975ca403f14ca904a2fdd28e079
+      internalID: 498882886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17534d3e9fdfa647b12d67ce7ca4af6
+      internalID: -2095047385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 366
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc0e78afc5cc04091b540073d98cd8
+      internalID: -308951253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dca3f239f51e743bd6f68c1846c92a
+      internalID: 1519595763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 366
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf53d6de8981a74d84d422c68ed9577
+      internalID: 408760956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 369
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974438bca4ee1e4b9bab7ed7df38c72
+      internalID: 856793542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 366
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f81a1af199b54aa9516a1e893dede
+      internalID: -2095979093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 366
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fadf387d38019846b1b1ac64cf5eba6
+      internalID: -768984785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 366
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adecd6cfcd37f124580819c31b0ce857
+      internalID: 1115086438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 369
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cfccb0fcff5ea46bf3a602ec40c233
+      internalID: 491628312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d340afa941fe45ace229fb7d14583
+      internalID: 421690268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 334
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b725e95993bb47b1ae0e3afce27f2
+      internalID: 634908338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 333
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bd775bc7e049419b58bd568b0c7c9
+      internalID: -89852419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 334
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ddd87110dc8e747a349e74d958b443
+      internalID: -1397941918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a41842e304dc4898110a9bf011f7d
+      internalID: 571066423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 334
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5d86555b71e241ac9a76abbf5403e
+      internalID: -765748398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_67
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 335
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4764a24a2f59c64c9a284713a7b767c
+      internalID: -1642268589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 334
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f81e3acccbcf1449a1321e881f1eb41
+      internalID: 1380678248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b6ee645aa067e4dba3df1848a404c3
+      internalID: -830194275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 300
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c3e905d31eb04783c3a8ac02d97b2
+      internalID: -1569571880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 300
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f489619d903c4f90083d6a958c3c7
+      internalID: 1677460836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 300
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46881527aaa91f44f885806e7a9698a3
+      internalID: -1029128398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 303
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b0bf4286940042bce6be8ef1c3304
+      internalID: -1820652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 300
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0553ab89e77c6cb488cba4b9b2b30e30
+      internalID: -371055187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08e1305fc8e4e409704749f0e21153
+      internalID: 920593175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 300
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff61344bd0779c40aea4a209de3dc41
+      internalID: 1064496337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 303
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d744d2e04b8a1848a924e18b9415836
+      internalID: 1937047104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_78
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 270
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafca379d1c397243a7891f87c87936c
+      internalID: 1423062167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 268
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3baa1f21cbbb6545a9bd208a13fd97b
+      internalID: 1747354054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 268
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7b62583f24ac46829e5af92db0f2a
+      internalID: 78433294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_81
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 268
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fdd5f51a71a9740a6a4569847470d8
+      internalID: -256429368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 270
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbf176186c4be499039efdfdf8f748
+      internalID: -97577947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 268
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd56d32d668f44197fc45773f4cd85
+      internalID: -1084329522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 269
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a344c789c83442a5613f88bb1d584
+      internalID: -774634371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_85
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 268
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd8a01b70a6a14dbc62bc855907f85
+      internalID: 846985974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4e5fd90b64cb4b8996a38b229acc2
+      internalID: 430024776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 234
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25df37c0ffbce4183f50c598c1efb7
+      internalID: -819618105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 234
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c941dd7ddefb034ab8b5086a6f5899c
+      internalID: -489599805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfccb8f213776f04d918f62ed1113aa1
+      internalID: -848005399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 237
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94901bf8d2d9c41b422d88302d8f12
+      internalID: 2105299940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c0bf9d26dbb7d4fb95308d9e368871
+      internalID: 1074361558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_92
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89640aa736a376041a91087d9c9c4ef5
+      internalID: -756977937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 234
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee136af54fc9fa479f2c19e0cfb60a6
+      internalID: 685406223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 237
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81920bee80268a64b9b756acc9a0f091
+      internalID: 726916083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_95
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06fbc0c9740d59469c46a731e8273ed
+      internalID: -180165131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 206
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b44ef15f50ae4439c2ad18725af52f
+      internalID: 485536466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a480070f32743d41b56bca274eaf1fd
+      internalID: 604396754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_98
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb19fb312d7f154f922d58aaa8bfafd
+      internalID: 328486374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa7f4a1c51f06b48a577775459f9f4e
+      internalID: -193198109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_100
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 202
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df071676fc890e4291c83bea6e44427
+      internalID: -8159816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 203
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a0015d6f805549a267e4b58d3e515
+      internalID: -483525611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_102
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 202
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c08de5e2615ed4ea120c17f9b745fc
+      internalID: 1750367561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ae33d0888c6b47a9179030bac3c8d
+      internalID: 747989651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 168
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb00a1649bcb243b1d304c2e433d44
+      internalID: -1330397971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefae1f2cb15caa4fa613d47a49ba6c7
+      internalID: -166632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_106
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 168
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d29a1e4e061143b30c66f50add051
+      internalID: -386408205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9b81409b33434382bcf074be3f0d3
+      internalID: -660116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_108
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9af9773281b019499f6501dfd202fbb
+      internalID: -1891931777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb06dc083974eb42b0a9406d8fb572c
+      internalID: -1249692280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70bc89db3ede9145b7c585a2fbfb761
+      internalID: -1845314165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 171
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311fe0b8fd681841be3b887eada9eb7
+      internalID: 1527495298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_112
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 138
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfa58c5e36c294198e4366fda2e505
+      internalID: -378600462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_113
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 136
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255a5c13ad86ce4d83e3cecc3c39137
+      internalID: 261538964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 135
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a65acd4db5f5448ec77a2c15d42e8
+      internalID: 192871646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_115
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 136
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139920f9d2b6e845ba5b57939e02082
+      internalID: -1672284611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5cb247e0ec9484eae32b0d787a2f58
+      internalID: 376577022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_117
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 136
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a0c52e35c5984a874a379eb2edd9e
+      internalID: -1276501268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_118
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 137
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f37ea89a02be54d93ad78b75d752b6
+      internalID: 1120166171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 136
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0866b04ab66663140968b7fe897663c9
+      internalID: -422249237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225692429dc5312438c0255706877ccb
+      internalID: -1199876012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792aa63eab2b17349830451ead443c30
+      internalID: 381231006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9cebbd951146e439fecca568f8f687
+      internalID: 627379374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_123
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 102
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb02ae75b68a84ab8a3dc936b02a11
+      internalID: 284669249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 105
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd7c9d98dd10e74182cccc1d6b59acf
+      internalID: 641969258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_125
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d65831ba7510f47886cf080bbb2c0d
+      internalID: 448361873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377af355366866d4b8d436d9b51980f3
+      internalID: 2073674680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6e24179b3491449e3cc0d735f20bd
+      internalID: -212839725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_128
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7218b774fed254e9ad7066d2697fb8
+      internalID: -429557790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_129
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 72
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806dc02c72b85e41b70a6a538b25b52
+      internalID: 1413621731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_130
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310338d2d785b1345b42ac1a9ae823ae
+      internalID: -240826398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_131
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 69
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c04d86010272e419560422eee0047d
+      internalID: 1293227808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_132
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8bf85e820e164db64c9f06b4cca8e
+      internalID: -912937900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_133
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc2cd44ee33ce478d7d902b71212a0
+      internalID: 2123027620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 70
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83dc59bb8ec214c80abd9c9d68ab68
+      internalID: 1484156040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_135
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 71
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955e37f25c135947b91dc7b131868cb
+      internalID: 966479122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6290536cc2c0c744a42326253d40ea0
+      internalID: 1002082866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18505f137e9a4bf4d8407a336efba913
+      internalID: 688905669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_138
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa3f1188d8a1349ba44535766a55ba
+      internalID: -699055302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beefebe2e4d571f42b6b978233eada7a
+      internalID: 920328352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_140
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46633e20aed9434aa25dfb0b8932f26
+      internalID: -2064431889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835f10672e09054788e6d7989e911bd
+      internalID: 1976869844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df29762b33208b4498c8ea72d935e76
+      internalID: -1763320148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fbfb562153d2640a7a33c3b17cf6fe
+      internalID: -964616445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86257cc79d6ffbb46a0d9bf4f8efcf87
+      internalID: -724095696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_145
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 39
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c46f3f2884e6d41b70c31026bf8793
+      internalID: 905006937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_146
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0df1c70019d047b32eed1bcef0cab
+      internalID: 1068062670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39029720f830b0343bd683d91631364a
+      internalID: 1966466894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cecee4e0ec6d145b058071262dac9c
+      internalID: -1698171629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_149
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31204c99a44718740b17fd17d38be4d1
+      internalID: 1333484456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_150
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9364072be73504aa394f6efe4eaa95
+      internalID: -658213244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_151
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98a3520171ef24f8a7460075d5eeb2
+      internalID: -1494645393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_152
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216faf79f1392124b80e0a90def52cc3
+      internalID: -2015303201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c74ef7b0aa4d542862e4210b33c8dc
+      internalID: -488735526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_0: 886966570
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_1: -605661233
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_10: -519610620
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_100: -8159816
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_101: -483525611
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_102: 1750367561
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_103: 747989651
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_104: -1330397971
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_105: -166632605
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_106: -386408205
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_107: -660116857
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_108: -1891931777
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_109: -1249692280
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_11: 851154860
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_110: -1845314165
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_111: 1527495298
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_112: -378600462
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_113: 261538964
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_114: 192871646
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_115: -1672284611
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_116: 376577022
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_117: -1276501268
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_118: 1120166171
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_119: -422249237
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_12: 626051248
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_120: -1199876012
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_121: 381231006
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_122: 627379374
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_123: 284669249
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_124: 641969258
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_125: 448361873
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_126: 2073674680
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_127: -212839725
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_128: -429557790
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_129: 1413621731
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_13: -1357130153
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_130: -240826398
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_131: 1293227808
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_132: -912937900
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_133: 2123027620
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_134: 1484156040
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_135: 966479122
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_136: 1002082866
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_137: 688905669
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_138: -699055302
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_139: 920328352
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_14: 82834413
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_140: -2064431889
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_141: 1976869844
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_142: -1763320148
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_143: -964616445
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_144: -724095696
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_145: 905006937
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_146: 1068062670
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_147: 1966466894
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_148: -1698171629
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_149: 1333484456
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_15: -20118398
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_150: -658213244
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_151: -1494645393
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_152: -2015303201
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_153: -488735526
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_16: -1163602668
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_17: 1916165021
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_18: -1526874642
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_19: 37634803
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_2: -1731400626
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_20: -577123617
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_21: -1531349638
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_22: 1453468770
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_23: 1230669306
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_24: 990852419
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_25: -1131965236
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_26: 1649798691
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_27: -1402569763
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_28: 63182857
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_29: 798836413
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_3: -620983978
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_30: 1582906043
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_31: -768878096
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_32: 1378208301
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_33: 1180361750
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_34: 1536380373
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_35: 1787501625
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_36: 107650337
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_37: 901882139
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_38: -56344171
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_39: 1999837808
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_4: -1774947562
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_40: 1202969487
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_41: 1215336262
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_42: -181819049
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_43: 991928844
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_44: 1546223110
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_45: -1857626197
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_46: 142107988
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_47: 1608726759
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_48: 949402466
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_49: -464506043
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_5: 1499254719
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_50: 2127598864
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_51: 498882886
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_52: -2095047385
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_53: -308951253
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_54: 1519595763
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_55: 408760956
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_56: 856793542
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_57: -2095979093
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_58: -768984785
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_59: 1115086438
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_6: -271725375
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_60: 491628312
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_61: 421690268
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_62: 634908338
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_63: -89852419
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_64: -1397941918
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_65: 571066423
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_66: -765748398
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_67: -1642268589
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_68: 1380678248
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_69: -830194275
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_7: 1968225733
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_70: -1569571880
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_71: 1677460836
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_72: -1029128398
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_73: -1820652304
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_74: -371055187
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_75: 920593175
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_76: 1064496337
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_77: 1937047104
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_78: 1423062167
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_79: 1747354054
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_8: 692081833
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_80: 78433294
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_81: -256429368
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_82: -97577947
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_83: -1084329522
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_84: -774634371
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_85: 846985974
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_86: 430024776
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_87: -819618105
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_88: -489599805
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_89: -848005399
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_9: -1986526936
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_90: 2105299940
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_91: 1074361558
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_92: -756977937
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_93: 685406223
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_94: 726916083
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_95: -180165131
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_96: 485536466
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_97: 604396754
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_98: 328486374
+      NES - Jackal Top Gunner - Heavy Tank_preview_rev_1_99: -193198109
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

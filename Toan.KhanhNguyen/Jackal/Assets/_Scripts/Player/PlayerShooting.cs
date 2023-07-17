@@ -9,7 +9,7 @@ public class PlayerShooting : JackalMono
     private List<GameObject> specialBullets = new List<GameObject>();
     [SerializeField] private GameObject normalBullet;
     [SerializeField] private GameObject specialBullet;
-    private int amount = 20;
+    private int amount = 5;
     [Header("GetComponent")]
     [SerializeField] private PoolingObject poolingObject;
     [SerializeField] private Transform ShootPoint;

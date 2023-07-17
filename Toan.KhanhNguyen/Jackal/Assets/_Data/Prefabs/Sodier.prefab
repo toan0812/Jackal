@@ -12,11 +12,11 @@ GameObject:
   - component: {fileID: 4482510231044405138}
   - component: {fileID: 4482510231044405149}
   - component: {fileID: 4482510231044405136}
-  - component: {fileID: 4482510231044405137}
   - component: {fileID: 3488443989408562925}
+  - component: {fileID: 4697844418735198123}
   m_Layer: 0
   m_Name: Sodier
-  m_TagString: Ally
+  m_TagString: Human
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -127,7 +127,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defaultPos: {x: 0, y: -1}
---- !u!50 &4482510231044405137
+--- !u!70 &3488443989408562925
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4482510231044405148}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.002829343, y: 0.018978119}
+  m_Size: {x: 0.1242134, y: 0.24931335}
+  m_Direction: 0
+--- !u!50 &4697844418735198123
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -147,20 +163,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!70 &3488443989408562925
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4482510231044405148}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.002829343, y: 0.007921219}
-  m_Size: {x: 0.1242134, y: 0.22719955}
-  m_Direction: 0
+  m_Constraints: 7

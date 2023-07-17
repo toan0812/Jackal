@@ -12,15 +12,25 @@ public class VFXController : JackalMono
     {
         instance = this;
     }
-    public GameObject GetBoomEffect(Transform effectTransform)
+    public GameObject GetBoomEffect(Transform effectTransform, AudioClip audioClip)
     {
         BoomEffect.SetActive(true);
         BoomEffect.transform.position = effectTransform.position;
+        SoundManager.instance.PlaySound(audioClip);
         return BoomEffect;
-    } public GameObject GetexplosionEffect(Transform effectTransform)
+    } 
+    public GameObject GetBulletEffect(Transform effectTransform, AudioClip audioClip)
+    {
+        BoomEffect.SetActive(true);
+        BoomEffect.transform.position = effectTransform.position;
+        SoundManager.instance.PlaySound(audioClip);
+        return BoomEffect;
+    } 
+    public GameObject GetexplosionEffect(Transform effectTransform, AudioClip audioClip)
     {
         explosionEffect.SetActive(true);
         explosionEffect.transform.position = effectTransform.position;
+        SoundManager.instance.PlaySound(audioClip);
         return explosionEffect;
     }
 

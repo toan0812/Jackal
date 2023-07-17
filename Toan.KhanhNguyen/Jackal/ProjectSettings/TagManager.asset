@@ -9,6 +9,9 @@ TagManager:
   - PlayerBulletBom
   - Enemy
   - Ally
+  - PlayerBullet
+  - Helicopter
+  - Human
   layers:
   - Default
   - TransparentFX

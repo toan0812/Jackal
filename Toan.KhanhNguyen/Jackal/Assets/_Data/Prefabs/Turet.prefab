@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 3381574058061749906}
   - component: {fileID: 3381574058061749907}
   - component: {fileID: 3792887068150521066}
+  - component: {fileID: 866412974657585612}
+  - component: {fileID: 7973182939743393008}
   m_Layer: 0
   m_Name: Turet
   m_TagString: Enemy
@@ -128,7 +130,6 @@ MonoBehaviour:
     m_Bits: 1024
   radius: 5
   turetBullet: {fileID: 2951623920463679464, guid: fab5fc55ff2079d4b90b812c362b03a3, type: 3}
-  turetBullets: []
   ShootPoint: {fileID: 3381574058783883328}
 --- !u!114 &3381574058061749907
 MonoBehaviour:
@@ -168,6 +169,40 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7975467, y: 0.8572664}
   m_EdgeRadius: 0
+--- !u!114 &866412974657585612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3381574058061749918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77573fead413b0d4ebe7e38ba444d898, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  transformInfor: {fileID: 0}
+  prefabsInfor: {fileID: 0}
+  inforFloatType: 0
+  inforIntType: 0
+  waitingTimerMax: 0
+  waitingTimer: 0
+  direction: {x: 0, y: 0}
+  points: 200
+--- !u!114 &7973182939743393008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3381574058061749918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a3960a41e7e3c489d030008ac05951, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 2
+  currentHealth: 0
 --- !u!1 &3381574058783883343
 GameObject:
   m_ObjectHideFlags: 0
@@ -192,7 +227,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3381574058783883343}
   m_LocalRotation: {x: 9.313226e-10, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.19, z: 0}
+  m_LocalPosition: {x: 0, y: -1, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -208,11 +243,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4308169651980469284}
-  - component: {fileID: 3872077424510631532}
-  - component: {fileID: 9051207759977557734}
   - component: {fileID: 4889357798369969101}
   m_Layer: 0
-  m_Name: Turet
+  m_Name: TuretModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -225,7 +258,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9148406889412340445}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -233,36 +266,6 @@ Transform:
   m_Father: {fileID: 3381574058061749905}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3872077424510631532
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9148406889412340445}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9652384903eee4e42b55099c6b62fef2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyDamage: 1
---- !u!114 &9051207759977557734
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9148406889412340445}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d8a3960a41e7e3c489d030008ac05951, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHealth: 2
-  currentHealth: 0
-  layerMask:
-    serializedVersion: 2
-    m_Bits: 2048
 --- !u!61 &4889357798369969101
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -279,10 +282,10 @@ BoxCollider2D:
   m_Offset: {x: -0.00000023841858, y: -0.105775714}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
+    pivot: {x: 0.5, y: 0.7}
+    oldSize: {x: 0.93333334, y: 1.5333333}
+    newSize: {x: 0.93333334, y: 1.5333333}
+    adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0

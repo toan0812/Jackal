@@ -4,26 +4,32 @@ using UnityEngine;
 
 public class SoldiersEnemyMovement : JackalMono
 {
-    private Rigidbody2D rig;
-    private float moveSpeed = 1f;
+    public float moveSpeed = 1f;
     private Animator animator;
     private Vector2 randomPos;
     private Vector2 dir;
     private float waitingTimerMax = 5f;
     private float waitingTimer;
+    private SoldierEnemytouchPlayer soldierEnemytouch;
     protected override void Awake()
     {
         randomPos = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f));
+        soldierEnemytouch = GetComponent<SoldierEnemytouchPlayer>();
     }
 
     private void Start()
     {
         animator = GetComponent<Animator>();
-        rig = GetComponent<Rigidbody2D>();
         waitingTimer = waitingTimerMax;
-        dir = new Vector3(transform.position.x + randomPos.x, transform.position.y + randomPos.y, transform.position.z);     
-        //StartCoroutine(SoldiersMove(waitingTimer));
+        dir = new Vector3(transform.position.x + randomPos.x, transform.position.y + randomPos.y, transform.position.z);
+        soldierEnemytouch.OnDead += SoldierEnemytouch_OnDead;
     }
+
+    private void SoldierEnemytouch_OnDead(object sender, System.EventArgs e)
+    {
+        moveSpeed = 0;
+    }
+
     private void Update()
     {
         SoilderMove();
@@ -46,19 +52,6 @@ public class SoldiersEnemyMovement : JackalMono
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.gameObject.CompareTag("Player"))
-        {
-            animator.SetTrigger("Dead");
-            moveSpeed = 0;
-        }
-    }
-
-    private void HideObject()
-    {
-        gameObject.SetActive(false);
-    }
 
 
 }
